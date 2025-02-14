@@ -6,3 +6,7 @@ Ne pas modifier ce fichier.
 - le fichier caché <code>.classpath</code>
 - le dossier <code>src/</code>
 - le fichier <code>src/.gitignore</code> (identique au <code>.gitignore</code> à la racine)
+
+
+Modifications de Mathis Lauriol-Torcq:
+- Ajout de toutes les classes de l'exercice 4.2 et 4.6 de yaip.
