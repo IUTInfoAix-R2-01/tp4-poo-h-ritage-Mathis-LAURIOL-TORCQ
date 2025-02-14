@@ -1,0 +1,23 @@
+TP4)
+
+Exercice 5)
+Redéfinir une méthode signifie signifie qu'une sous classe va redéfinir le comportement de méthode de leur classe parent.
+Elle doit avoir exactement le même nom.
+
+Exercice 6)
+Dans Velo, seulement la méthode toString() est redéfinie.
+Dans VeloElec, la méthode toString() et GetPuissance() sont redéfinies.
+
+Exercice 7)
+L'annotation Override permet d'indiquer au compileur que la méthode qui suit est une méthode redéfinie.
+
+Exercice 8)
+Override permet, si le codeur s'est trompé dans le nom de la méthode pendant sa re définition,
+d'alerter le code qu'il y a une erreur de redéfiniton lors de la compilation. 
+Elle n'est donc pas indispensable mais permet d'alerter en cas d'erreur.
+
+Exercice 10)
+le super.getPuissance appelle la fonction getPuissance de Velo (super indique qu'on parle de la classe mère)
+
+
+
