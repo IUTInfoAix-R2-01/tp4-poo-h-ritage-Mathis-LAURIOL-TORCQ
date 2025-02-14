@@ -10,3 +10,5 @@ Ne pas modifier ce fichier.
 
 Modifications de Mathis Lauriol-Torcq:
 - Ajout de toutes les classes de l'exercice 4.2 et 4.6 de yaip.
+- Ajout de l'exercice 6.6 de yaip
+- Ajout des exercices 6.2 6.3 6.5
